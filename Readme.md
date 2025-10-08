@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=weedu_knows_code;Mastering++%7C+Software+Engineering;Tech+Enthusiast+%7C+Anime+Lover;Code+%7C+Football+%7C+CR7+Forever" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=unveilcode;Mastering++%7C+Software+Engineering;Tech+Enthusiast+%7C+drama+Lover;Code+%7C+Football+%7C+CR7+Forever" alt="Typing Animation" />
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm *Muhammad Waleed Ahmed, a passionate **Software Engineer* with expertise in developing scalable, efficient, and high-performance applications. I specialize in *Object-Oriented Programming, Frontend Development, and Software Architecture*. My goal is to build innovative solutions that enhance user experiences and optimize performance.Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.vercel.app/)
+Hey there! I'm *Muhammad Sameer, a passionate **Software Engineer* with expertise in developing scalable, efficient, and high-performance applications. I specialize in *Object-Oriented Programming, Frontend Development, and Software Architecture*. My goal is to build innovative solutions that enhance user experiences and optimize performance.Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.vercel.app/)
 
 ---
 
