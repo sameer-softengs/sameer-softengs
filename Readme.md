@@ -65,7 +65,7 @@ Hey there! I'm *Muhammad Sameer, a passionate **Software Engineer* with expertis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-softengs&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sameer-softengs&theme=onedark)](https://github.com/sameer-softengs/github-readme-streak-stats)  
-![](https://komarev.com/ghpvc/?username=weedu230&color=blue)
+![](https://komarev.com/ghpvc/?username=sameer-softengs&color=blue)
 
 ---
 
