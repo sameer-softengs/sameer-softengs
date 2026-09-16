@@ -80,7 +80,7 @@ Hey there! I'm *Muhammad Sameer, a passionate **Software Engineer* with expertis
 ## 📫 Connect with Me
 
 - *GitHub:* [github.com/sameer-softengs](https://github.com/sameer-softengs)  
-- *Email:* msameer4536@gmail.com  
+- *Email:* muhammadsameer4536@gmail.com  
 - *Linkedin:* https://www.linkedin.com/in/muhammad-sameer-a30593340/ 
 ---
 
