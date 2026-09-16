@@ -81,7 +81,7 @@ Hey there! I'm *Muhammad Sameer, a passionate **Software Engineer* with expertis
 
 - *GitHub:* [github.com/sameer-softengs](https://github.com/sameer-softengs)  
 - *Email:* muhammadsameer4536@gmail.com  
-- *Linkedin:* https://www.linkedin.com/in/muhammad-sameer-a30593340/ 
+- *Linkedin:* https://www.linkedin.com/in/sameer-softengs/ 
 ---
 
 ## 🎯 Quotes & Fun Elements
