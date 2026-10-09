@@ -220,14 +220,6 @@ A transportation application concept designed to improve access to public bus ro
 
 </div>
 
-### Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-softengs&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
 ### Contribution History
 
 <div align="center">
