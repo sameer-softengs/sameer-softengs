@@ -21,8 +21,9 @@
 <a href="mailto:muhammadsameer4536@gmail.com">
   <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="./assets/Muhammad_Sameer_CV.pdf">
-  <img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=readme&logoColor=white"/>
+
+<a href="https://raw.githubusercontent.com/sameer-softengs/sameer-softengs/main/assets/Muhammad_Sameer_CV.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV"/>
 </a>
 
 <br/><br/>
@@ -350,8 +351,8 @@ Interested in learning more about my experience, academic background, and techni
 
 <br/><br/>
 
-<a href="./assets/Muhammad_Sameer_CV.pdf">
-  <img src="https://img.shields.io/badge/View_My_CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://raw.githubusercontent.com/sameer-softengs/sameer-softengs/main/assets/Muhammad_Sameer_CV.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV"/>
 </a>
 
 <a href="https://portfolioo-xi-woad.vercel.app/">
